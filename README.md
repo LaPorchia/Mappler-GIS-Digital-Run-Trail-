@@ -5,7 +5,7 @@ Last week in Dr. Eugene Levin’s CP Visualization and Unstructured Data course,
 
 During the session, we explored how tabular datasets can be transformed into dynamic digital maps. By converting Excel data into geospatial visualizations, we were able to analyze and interact with location-based information in real time.
 
-This repository contains sample datasets and visualizations created during that exercise.
+This repository contains sample datasets and visualizations created during that exercise. https://mappler.com/
 
 Project Example
 
